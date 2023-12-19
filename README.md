@@ -35,9 +35,6 @@ We have sped and warped through my universe. Want to unveil your own universe? C
 <a href="https://www.twitter.com/DevopsX_">
   <img align="right" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
-<a href="mailto:2000.shukla.gaurav@gmail.com">
-  <img align="right" alt="Gmail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
 </details>
 
 <p align="center">
